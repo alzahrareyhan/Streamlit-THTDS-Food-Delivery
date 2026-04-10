@@ -144,7 +144,7 @@ drive business decisions, and continuously adapt to evolving technologies.”
 st.markdown("---")
 st.subheader("🔗 Project Links")
 st.markdown("""
-- 📄 [Project Slide Deck](https://drive.google.com/drive/folders/1ozbu6NxpJpzdxsO9cMOWpijmqrU5LgsB?usp=drive_link)  
+- 📄 [Project Slide Deck]https://canva.link/zvnpg8s700roux1)  
 - 🍔 [Dataset – Kaggle](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
 """)
 
