@@ -133,8 +133,7 @@ st.markdown("---")
 st.subheader("💡 Motto")
 st.markdown("""
 <div class="card-hover">
-“Committed to leveraging data and analytical skills to generate impactful insights, 
-drive business decisions, and continuously adapt to evolving technologies.”
+“No matter how many times you fall, what truly matters is your courage to stand up, learn, and keep going without losing hope.”
 </div>
 """, unsafe_allow_html=True)
 
